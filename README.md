@@ -58,17 +58,6 @@ A modern and interactive **Weather Dashboard web application** that provides **r
 ---
 
 
-weather-dashboard/
-├── index.html
-├── style.css
-├── script.js
-└── screenshots/
-├── light-mode.png
-├── dark-mode.png
-└── location-weather.png
-
-
-
 ---
 
 ## ⚙️ Setup & Usage
@@ -124,4 +113,14 @@ Varun
 Web Development Intern | Frontend Developer
 
 ## 📂 Project Structure
+
+
+weather-dashboard/
+├── index.html
+├── style.css
+├── script.js
+└── screenshots/
+├── light-mode.png
+├── dark-mode.png
+└── location-weather.png
 
