@@ -29,7 +29,6 @@ A modern and interactive **Weather Dashboard web application** that provides **r
 ### 📍 Location-Based Weather
 ![Location Weather Screenshot](screenshots/location-weather.png)
 
-> 📁 Create a `screenshots/` folder in your repo and add these images.
 
 ---
 
@@ -79,7 +78,7 @@ weather-dashboard/
    git clone https://github.com/your-username/weather-dashboard.git
 
 
-📚 What I Learned
+**📚 What I Learned**
 
 Integrating third-party APIs
 
@@ -93,7 +92,7 @@ Using browser APIs like Geolocation
 
 Improving user experience with animations and transitions
 
-🚀 Future Improvements
+**🚀 Future Improvements**
 
 🌦️ Weather icons based on conditions
 
@@ -103,16 +102,13 @@ Improving user experience with animations and transitions
 
 💾 Save last searched city using localStorage
 
-🤝 Contributing
+**🤝 Contributing**
 
 Contributions are welcome!
 Feel free to fork the repository and submit a pull request.
 
-📄 License
 
-This project is licensed under the MIT License.
-
-⭐ Show Some Love
+**⭐ Show Some Love**
 
 If you like this project:
 
