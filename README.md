@@ -12,9 +12,9 @@ A modern and interactive **Weather Dashboard web application** that provides **r
 
 ## 🔗 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-brightgreen)](https://your-live-demo-link-here)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-brightgreen)](https://weather-dashboard-cgewig32o-varun2146s-projects.vercel.app/)
 
-> 👉 Replace `your-live-demo-link-here` with your Netlify / GitHub Pages URL
+
 
 ---
 
